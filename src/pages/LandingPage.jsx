@@ -15,7 +15,7 @@ import { jsx } from "react/jsx-runtime";
 
 ChartJS.register(CategoryScale, LinearScale, BarElement, ArcElement, Title, Tooltip, Legend);
 
-const API = "http://localhost:5000/api";
+const API = "https://clear-am-back-end.vercel.app/api";
 
 const ASSETS = {
   logo: "../../public/assets/logo.png",

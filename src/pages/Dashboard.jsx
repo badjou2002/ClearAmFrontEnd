@@ -15,7 +15,7 @@ import { useNavigate } from "react-router-dom";
 
 ChartJS.register(CategoryScale, LinearScale, BarElement, ArcElement, Title, Tooltip, Legend);
 
-const API = "http://localhost:5000/api";
+const API = "https://clear-am-back-end.vercel.app/api";
 
 const s = {
   container: {
