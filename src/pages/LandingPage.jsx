@@ -18,11 +18,11 @@ ChartJS.register(CategoryScale, LinearScale, BarElement, ArcElement, Title, Tool
 const API = "https://clear-am-back-end.vercel.app/api";
 
 const ASSETS = {
-  logo: "../../public/assets/logo.png",
-  jciSidiMansour: "../../public/assets/JCI Sidi Mansour.png",
-  jciSfax: "../../public/assets/JCI Sfax.png",
-  jciEnugu: "../../public/assets/JCI Enugu.png",
-  jciAbujaPrestige: "../../public/assets/JCI Abuja Prestige.png",
+  logo: "assets/logo.png",
+  jciSidiMansour: "assets/JCI Sidi Mansour.png",
+  jciSfax: "assets/JCI Sfax.png",
+  jciEnugu: "assets/JCI Enugu.png",
+  jciAbujaPrestige: "assets/JCI Abuja Prestige.png",
 };
 
 const styles = {
